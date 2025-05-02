@@ -1,2 +1,2 @@
-# Excell
- Projetos das aulas de Excell
+# Excel
+ Macro simples para cadastro de clientes editavel.
